@@ -1,0 +1,1 @@
+web: java -jar build/libs/api-dev-spring-2024-0.0.1-SNAPSHOT.jar
